@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://vqnxm1qcf66l"
-path="res://.godot/imported/index.icon.png-9e9820c024aa5f2fb3e1263f5e971dac.ctex"
+uid="uid://c015pjx7wim4q"
+path="res://.godot/imported/index.icon.png-c615af856eabc03ca93d51f6a8f07b60.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://dodge-n-dash-web/index.icon.png"
-dest_files=["res://.godot/imported/index.icon.png-9e9820c024aa5f2fb3e1263f5e971dac.ctex"]
+source_file="res://web/index.icon.png"
+dest_files=["res://.godot/imported/index.icon.png-c615af856eabc03ca93d51f6a8f07b60.ctex"]
 
 [params]
 
